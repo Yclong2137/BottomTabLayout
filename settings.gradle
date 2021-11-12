@@ -1,0 +1,3 @@
+rootProject.name = "ttxc-framework"
+include ':app'
+include ':framework:ui'
